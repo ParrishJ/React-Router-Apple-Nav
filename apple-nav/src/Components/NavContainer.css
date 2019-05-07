@@ -1,0 +1,9 @@
+.navContainer {
+    display: flex;
+    background-color: #313131;
+    justify-content: space-evenly;
+}
+
+.navContainer a {
+    color: white;
+}
